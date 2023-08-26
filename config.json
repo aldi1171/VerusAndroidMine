@@ -4,18 +4,7 @@
 		"name": "LuckPool",
         	"url": "stratum+tcp://ap.luckpool.net:3960",
 		"timeout": 150
-	},
-	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://ap.luckpool.net:3956",
-		"timeout": 150
-	},
-	{
-		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://ap.luckpool.net:3957",
-		"timeout": 150
-	}
-	],
+	}],
 	"user": "RBZYT1u51jUXDBQ6X2GB9GY2PhCREWkuL7.A50",
 	"pass": "x",
 	"algo": "verus",
